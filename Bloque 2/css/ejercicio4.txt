@@ -1,0 +1,30 @@
+1- 
+p {font-face: sans-serif;}
+p {font-size: 1em;}
+p {line-height: 1.2em;}
+
+Este código se podria optimizar poniendolo todo en un mismo corchete.
+
+2- 
+blockquote {
+font-size:1em
+line-height: 150%
+color: gray }
+
+
+
+3-
+body
+{background-color: black;}
+{color: #666;}
+{margin-left: 12em;}
+{margin-right: 12em;}
+
+Se deberia de agrupar en un mismo corchete.
+
+4- 
+p {color: white;}
+blockquote {color: white;}
+li {color: white;}
+
+Se podria poner el color directamente en el que agrupe a esos tres.

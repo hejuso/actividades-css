@@ -1,0 +1,11 @@
+Ejercicio 5. Haz un c´ırculo sobre todos los elementos en el diagrama que se
+puede esperar que aparezcan en rojo cuando se aplica la regla de estilo siguiente
+a un documento HTML con la estructura diagramada en la figura 1. Esta regla
+se utiliza un tipo de selector no has visto a´un, pero el sentido com´un debe
+servirle bien.
+
+div#intro { color: red; }
+
+Se aplicaria a todo el div con ID "intro"
+
+p, p, img, strong, li, li, li

@@ -1,0 +1,7 @@
+<style type="text/css">
+p { color: purple; }
+p { color: green; }
+p { color: gray; }
+</style>
+
+El parrafo se quedaría de color gris.

@@ -1,0 +1,26 @@
+1-
+body{
+color:rojo;
+}
+
+2-
+h2{
+	color:rojo;
+}
+
+3-
+h1, p{
+	color:rojo;
+}
+
+4-
+.especial{
+	color:rojo;
+}
+
+5-
+#intro{
+	color:rojo;
+}
+
+6-

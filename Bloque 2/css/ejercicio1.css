@@ -1,0 +1,20 @@
+h1{
+
+	color: #C00;
+	font-family: "Arial";
+	font-size: 5px;
+
+}
+
+p{
+
+	color: grey;
+	font-family: "Verdana";
+	font-size: 2px;
+
+}
+
+blockquote {
+font-size:1em
+line-height: 150%
+color: grey }
